@@ -1,0 +1,23 @@
+EAN a partir do nome do produto
+https://www.ean-search.org/
+
+Mateus Rosé
+5601012011500
+
+Se poderem, confirmem a origem da loja, e deixem nos parenteses tipo "Country", Confirmed, "Link"
+
+		Country
+Country,	Confirmation,	Link
+
+New Zealand,	Unconfirmed,	https://mlq.co.nz/
+Ireland,	Uncorfirmed,	https://www.carryout.ie/
+United Kingdom,	Uncorfirmed,	https://www.deebee.co.uk/shop
+Estonia,	Uncorfirmed,	https://alkostore.ee/
+Brasil,		Uncorfirmed,	https://www.festval.com/
+Brasil,		Uncorfirmed,	https://www.sosvinhos.com.br/
+Spain,		Uncorfirmed,	https://privateceller.com/
+Australia,	Uncorfirmed,	https://www.vintagecellars.com.au/
+Chile,		Uncorfirmed,	https://elmundodelvino.cl/
+Portugal,	Uncorfirmed,	https://wineexpert.pt/
+South Africa,	Uncorfirmed,	https://shop.captains.co.za/
+Canada,		Unconfirmed,	https://www.anbl.com/
