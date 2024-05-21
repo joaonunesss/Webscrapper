@@ -1,0 +1,9 @@
+bs4
+requests
+sqlalchemy
+datetime
+fastapi
+uvicorn[standard]
+pydantic
+mysql-connector-python
+babel

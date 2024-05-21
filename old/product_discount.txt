@@ -1,0 +1,10 @@
+   product_discount = product_div.find("span", class_="ct-product-tile-badge-value--pvpr col-product-tile-badge-value--pvpr")
+    print(product_discount.text)
+
+
+    if product_discount != None:
+        value["discount"] = 1
+    else:
+        value["discount"] = 0
+    print(value["discount"])
+    return value
